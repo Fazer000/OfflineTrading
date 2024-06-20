@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Offline Trading</string>
+    <string name="title_home">Аккаунт</string>
+    <string name="title_dashboard">График</string>
+    <string name="title_notifications">Валюты</string>
+
+    <string-array name="cryptocurrency_names">
+        <item>Bitcoin - USDT</item>
+        <item>Bitcoin Cash - USDT</item>
+        <item>Ethereum - USDT</item>
+        <item>Binance Coin - USDT</item>
+        <item>Polygon - USDT</item>
+        <item>Solana - USDT</item>
+        <item>Dogecoin - USDT</item>
+        <item>PEPE - USDT</item>
+        <item>Polkadot - USDT</item>
+        <item>Avalanche - USDT</item>
+        <item>Uniswap - USDT</item>
+        <item>TRON - USDT</item>
+        <item>Notcoin - USDT</item>
+        <item>Toncoin - USDT</item>
+        <item>Ethereum - Bitcoin</item>
+    </string-array>
+
+    <string-array name="cryptocurrency_values">
+        <item>BTCUSDT</item>
+        <item>BCHUSDT</item>
+        <item>ETHUSDT</item>
+        <item>BNBUSDT</item>
+        <item>MATICUSDT</item>
+        <item>SOLUSDT</item>
+        <item>DOGEUSDT</item>
+        <item>PEPEUSDT</item>
+        <item>DOTUSDT</item>
+        <item>AVAXUSDT</item>
+        <item>UNIUSDT</item>
+        <item>TRXUSDT</item>
+        <item>NOTUSDT</item>
+        <item>TONUSDT</item>
+        <item>ETHBTC</item>
+    </string-array>
+</resources>

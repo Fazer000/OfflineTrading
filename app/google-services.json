@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "977009111514",
+    "firebase_url": "https://offlinetrading-default-rtdb.firebaseio.com",
+    "project_id": "offlinetrading",
+    "storage_bucket": "offlinetrading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977009111514:android:08e83e6ca4ce61945710e3",
+        "android_client_info": {
+          "package_name": "com.example.offlinetrading"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC0y2ZTEEYE-MwwHgz758z2IBOanNVmyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977009111514:android:c9c0d0698251b2355710e3",
+        "android_client_info": {
+          "package_name": "com.example.offlinetrading"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC0y2ZTEEYE-MwwHgz758z2IBOanNVmyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

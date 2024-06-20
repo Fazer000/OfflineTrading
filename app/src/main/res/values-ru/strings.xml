@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline Trading</string>
+    <string name="title_home">Аккаунт</string>
+    <string name="title_dashboard">График</string>
+    <string name="title_notifications">Валюты</string>
+</resources>
